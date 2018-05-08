@@ -4,7 +4,7 @@ url: reservations.streamdata.gallery
 tag: Reservations
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-topics
 github_repo: reservations
 github_branch: master
 collections:
